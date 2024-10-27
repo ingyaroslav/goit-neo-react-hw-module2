@@ -1,0 +1,12 @@
+.options {
+  display: flex;
+  gap: 5px;
+}
+
+.button {
+  border: 1px solid black;
+}
+
+.button:hover {
+  background-color: lightgrey;
+}
